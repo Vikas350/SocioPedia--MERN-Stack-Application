@@ -1,1 +1,1 @@
-
+SocioPedia : MERN Stack Application
